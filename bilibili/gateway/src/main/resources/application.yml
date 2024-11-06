@@ -1,0 +1,71 @@
+server:
+  port: 8085
+spring:
+  mail:
+    host: smtp.qq.com  # 邮件服务器的主机地址，这里使用的是 QQ 邮箱的 SMTP 服务器
+    default-encoding: UTF-8  # 邮件的默认编码格式
+    username: localhost@qq.com  # 发送邮件的邮箱账号
+    password: localhost  # 发送邮件的邮箱密码
+    properties:
+      mail:
+        smtp:
+          auth: true  # 是否需要认证，true 表示需要
+          starttls:
+            enable: true  # 是否启用 STARTTLS 协议
+            required: true  # 是否强制使用 STARTTLS 协议
+          socketFactory:
+            port: 465  # SSL 连接的端口号
+            class: javax.net.ssl.SSLSocketFactory  # 使用的 SocketFactory 类
+            fallback: false  # 是否回退到非 SSL 连接，false 表示不回退
+
+  redis:
+    host: 8.138.31.44:6379
+  zipkin:
+    base-url: http://8.138.31.44:9411
+    sender:
+      type: web
+  sleuth:
+    sampler:
+      probability: 1
+  main:
+    allow-bean-definition-overriding: true
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    name: datasource
+    url: jdbc:mysql://8.138.31.44:3306/bilibili?useUnicode=true&allowPublicKeyRetrieval=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: root
+
+
+bilibili:
+  jwt:
+    location: classpath:hmall.jks
+    alias: hmall
+    password: hmall123
+    tokenTTL: 30m
+  auth:
+    excludePaths:   #无需登陆也可以访问的网址
+      - /chat/**
+      - /changeNoticeStatus/**
+      - //getNotice/**
+      - /DBChange/**
+      - /notice/**
+      - /search/**
+      - /ensemble/**
+      - /follow/**
+      - /selfCenter/**
+      - /user/**
+      - /collect/**
+      - /comment/**
+      - /danmaku/**
+      - /getAllTableData/**
+      - /like/**
+      - /play/**
+      - /createCenter/**
+      - /videoEncode/**
+      - /video-service/**
+      - /chat-service/**
+      - /notice-service/**
+      - /user-service/**
+      - /search-service/**
+      - /api/**

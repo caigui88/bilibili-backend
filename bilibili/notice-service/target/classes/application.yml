@@ -1,0 +1,51 @@
+server:
+  port: 8084
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    name: datasource
+    url: jdbc:mysql://8.138.31.44:3306/bilibili?useUnicode=true&allowPublicKeyRetrieval=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: root
+  redis:
+    host: 8.138.31.44
+  zipkin:
+    base-url: http://localhost:9411
+    sender:
+      type: web
+  sleuth:
+    sampler:
+      probability: 1
+
+rocketmq:
+  name-server: 8.138.31.44:9876
+  producer:
+    group: test
+
+logging:
+  level:
+    com.bilibili: debug
+  pattern:
+    dateformat: HH:mm:ss:SSS
+  file:
+    path: "logs/${spring.application.name}"
+
+knife4j:
+    enable: true
+    openapi:
+        title: Bilibili-信息通知服务接口文档
+        description: "Bilibili-信息通知服务接口文档"
+        email:
+        concat:
+        url: https://www.bilibili.com
+        version: v1.0.0
+        group:
+            default:
+                group-name: default
+                api-rule: package
+                api-rule-resources:
+                    - com.bilibili.notice.controller

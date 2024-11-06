@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: notice-service
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      server-addr: 8.138.31.44:8848
+      config:
+        file-extension: yaml # 文件后缀名
+      discovery:
+        register-enabled: true
+#        shared-configs: # 共享配置
