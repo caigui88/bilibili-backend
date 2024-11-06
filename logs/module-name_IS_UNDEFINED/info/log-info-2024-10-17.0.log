@@ -1,0 +1,45 @@
+2024-10-17 22:13:35 |INFO  |main |StartupInfoLogger.java:55 |com.bilibili.user.UserApplication |Starting UserCenterApplication using Java 11.0.24 on The-market-of-CaiGui with PID 51260 (E:\project\idea\bilibili-backend\bilibili\user-service\target\classes started by moru in E:\project\idea\bilibili-backend)
+2024-10-17 22:13:35 |INFO  |main |SpringApplication.java:631 |com.bilibili.user.UserApplication |No active profile set, falling back to 1 default profile: "default"
+2024-10-17 22:13:36 |INFO  |main |GenericScope.java:283 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=025d5812-e401-3bad-83a5-2b94a458cff7
+2024-10-17 22:13:36 |INFO  |main |TomcatWebServer.java:108 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 3000 (http)
+2024-10-17 22:13:36 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-3000"]
+2024-10-17 22:13:36 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2024-10-17 22:13:36 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.75]
+2024-10-17 22:13:36 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2024-10-17 22:13:36 |INFO  |main |ServletWebServerApplicationContext.java:292 |org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext |Root WebApplicationContext: initialization completed in 748 ms
+2024-10-17 22:13:36 |INFO  |main |MybatisPlusJoinAutoConfiguration.java:140 |com.github.yulichang.autoconfigure.MybatisPlusJoinAutoConfiguration |mybatis plus join properties config complete
+2024-10-17 22:13:36 |INFO  |main |MybatisPlusJoinAutoConfiguration.java:140 |com.github.yulichang.autoconfigure.MybatisPlusJoinAutoConfiguration |mybatis plus join SqlInjector init
+2024-10-17 22:13:38 |INFO  |main |WebMvcPropertySourcedRequestMappingHandlerMapping.java:69 |springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping |Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2024-10-17 22:13:39 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Starting ProtocolHandler ["http-nio-3000"]
+2024-10-17 22:13:39 |INFO  |main |TomcatWebServer.java:220 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat started on port(s): 3000 (http) with context path ''
+2024-10-17 22:13:40 |INFO  |main |DocumentationPluginsBootstrapper.java:93 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Documentation plugins bootstrapped
+2024-10-17 22:13:40 |INFO  |main |AbstractDocumentationPluginsBootstrapper.java:79 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Found 1 custom documentation plugin(s)
+2024-10-17 22:13:40 |INFO  |main |ApiListingReferenceScanner.java:44 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2024-10-17 22:13:40 |INFO  |main |StartupInfoLogger.java:61 |com.bilibili.user.UserApplication |Started UserCenterApplication in 5.808 seconds (JVM running for 6.817)
+2024-10-17 22:28:43 |INFO  |SpringApplicationShutdownHook |TimeBasedFilter.java:34 |com.bilibili.common.filter.TimeBasedFilter |
+
+
+
+
+
+
+2024-10-17 22:28:43 |INFO  |SpringApplicationShutdownHook |DruidDataSource.java:2063 |com.alibaba.druid.pool.DruidDataSource |{dataSource-0} closing ...
+2024-10-17 22:54:15 |INFO  |main |StartupInfoLogger.java:55 |com.bilibili.user.UserApplication |Starting UserCenterApplication using Java 11.0.24 on The-market-of-CaiGui with PID 44712 (E:\project\idea\bilibili-backend\bilibili\user-service\target\classes started by moru in E:\project\idea\bilibili-backend)
+2024-10-17 22:54:15 |INFO  |main |SpringApplication.java:631 |com.bilibili.user.UserApplication |No active profile set, falling back to 1 default profile: "default"
+2024-10-17 22:54:16 |INFO  |main |GenericScope.java:283 |org.springframework.cloud.context.scope.GenericScope |BeanFactory id=025d5812-e401-3bad-83a5-2b94a458cff7
+2024-10-17 22:54:16 |INFO  |main |TomcatWebServer.java:108 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 3000 (http)
+2024-10-17 22:54:16 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-3000"]
+2024-10-17 22:54:16 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2024-10-17 22:54:16 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.75]
+2024-10-17 22:54:16 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2024-10-17 22:54:16 |INFO  |main |ServletWebServerApplicationContext.java:292 |org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext |Root WebApplicationContext: initialization completed in 1169 ms
+2024-10-17 22:54:16 |INFO  |main |MybatisPlusJoinAutoConfiguration.java:140 |com.github.yulichang.autoconfigure.MybatisPlusJoinAutoConfiguration |mybatis plus join properties config complete
+2024-10-17 22:54:16 |INFO  |main |MybatisPlusJoinAutoConfiguration.java:140 |com.github.yulichang.autoconfigure.MybatisPlusJoinAutoConfiguration |mybatis plus join SqlInjector init
+2024-10-17 22:54:19 |INFO  |main |WebMvcPropertySourcedRequestMappingHandlerMapping.java:69 |springfox.documentation.spring.web.WebMvcPropertySourcedRequestMappingHandlerMapping |Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+2024-10-17 22:54:21 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Starting ProtocolHandler ["http-nio-3000"]
+2024-10-17 22:54:21 |INFO  |main |TomcatWebServer.java:220 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat started on port(s): 3000 (http) with context path ''
+2024-10-17 22:54:22 |INFO  |main |DocumentationPluginsBootstrapper.java:93 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Documentation plugins bootstrapped
+2024-10-17 22:54:22 |INFO  |main |AbstractDocumentationPluginsBootstrapper.java:79 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Found 1 custom documentation plugin(s)
+2024-10-17 22:54:22 |INFO  |main |ApiListingReferenceScanner.java:44 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2024-10-17 22:54:22 |INFO  |main |StartupInfoLogger.java:61 |com.bilibili.user.UserApplication |Started UserCenterApplication in 9.714 seconds (JVM running for 12.946)
+2024-10-17 22:54:34 |INFO  |SpringApplicationShutdownHook |DruidDataSource.java:2063 |com.alibaba.druid.pool.DruidDataSource |{dataSource-0} closing ...
