@@ -35,15 +35,7 @@ spring:
     url: jdbc:mysql://8.138.31.44:3306/bilibili?useUnicode=true&allowPublicKeyRetrieval=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=GMT%2B8
     username: root
     password: root
-  cloud:
-    gateway:
-      routes:
-        - id : video-service
-          uri: lb://video-service
-          predicates:
-            - Path=/video-service/**
-          filters:
-            - StripPrefix=1
+
 
 bilibili:
   jwt:
@@ -76,3 +68,4 @@ bilibili:
       - /notice-service/**
       - /user-service/**
       - /search-service/**
+      - /api/**

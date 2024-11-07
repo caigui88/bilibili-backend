@@ -15,27 +15,23 @@ spring:
           enabled: true
           lower-case-service-id: true
       routes:
-        - id: websocket
-          uri: ws://localhost:1688
-          predicates:
-            - Path=/ljl/chat
         - id: route1
-          uri: http://localhost:30000
+          uri: http://localhost:8084
           predicates:
             - Path=/changeNoticeStatus/**,/getNotice/**
         - id: route2
-          uri: http://localhost:3000
+          uri: http://localhost:8081
           predicates:
-            - Path=/ensemble/**,/follow/**,/selfCenter/**,/userInfo/**
+            - Path=/ensemble/**,/follow/**,/selfCenter/**,/user/**
         - id: route3
-          uri: http://localhost:10201
+          uri: http://localhost:8080
           predicates:
-            - Path=/collect/**,/comment/**,/danmaku/**,/videoToEnsemble/**,/like/**,/createCenter/**,/play/**
+            - Path=/collect/**,/comment/**,/danmaku/**,/videoToEnsemble/**,/like/**,/createCenter/**,/play/**,/getAllTableData/**
         - id: route4
-          uri: http://localhost:1688
+          uri: http://localhost:8083
           predicates:
             - Path=/chat/**
         - id: route5
-          uri: http://localhost:8201
+          uri: http://localhost:8082
           predicates:
             - Path=/search/**
