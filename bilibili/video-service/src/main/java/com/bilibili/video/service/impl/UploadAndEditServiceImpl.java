@@ -98,7 +98,7 @@ public class UploadAndEditServiceImpl implements UploadAndEditService {
                 CustomMultipartFile coverMultipartFile = new CustomMultipartFile(decodedBytes, coverFileName, imgContentType);
                 queryWrapper.eq(Video::getCover, UUID.randomUUID().toString().substring(0, 8) + coverFileName);
                 minioService.uploadImgFile(coverFileName, coverMultipartFile.getInputStream(), imgContentType);
-                client.sendUploadNotice(new UploadVideo().setVideoId(video.getId()).setVideoName(video.getName()).setUrl(url).setHasCover(true));
+//                client.sendUploadNotice(new UploadVideo().setVideoId(video.getId()).setVideoName(video.getName()).setUrl(url).setHasCover(true));
                 User user = userMapper.selectById(uploadVideoDTO.getUserId());
                 client.dynamicNotice(uploadVideoDTO.toCoverDynamic(user, video));
             } else {

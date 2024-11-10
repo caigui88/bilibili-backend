@@ -115,9 +115,10 @@ public class MysqlToEsHandler {
         objectRedisTemplate.delete(Constant.USER_UPDATE_KEY);
         objectRedisTemplate.delete(Constant.USER_ADD_KEY);
 
-    }/**
-     *根据索引名和原始请求批量添加请求和保存原始请求
-     */
+    }
+    /**
+     *  根据索引名和原始请求批量添加请求和保存原始请求
+     * */
 
     public Boolean mysqlAddToEs(String requestType, List<HashMap<String, Object>> list, String indexName) throws IOException {
         //批量添加请求

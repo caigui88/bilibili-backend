@@ -46,7 +46,7 @@ public class UploadAndEditController {
         return uploadAndEditService.uploadPart(uploadPartDTO);
     }
     @ApiOperation("编辑视频")
-    @PostMapping("edit")
+    @PostMapping("/edit")
     public Result<Boolean> edit(@ModelAttribute EditVideoDTO editVideoDTO){
         log.info("1");
         return uploadAndEditService.edit(editVideoDTO);

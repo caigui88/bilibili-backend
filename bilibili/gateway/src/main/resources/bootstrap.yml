@@ -26,7 +26,7 @@ spring:
         - id: route3
           uri: http://localhost:8080
           predicates:
-            - Path=/collect/**,/comment/**,/danmaku/**,/videoToEnsemble/**,/like/**,/createCenter/**,/play/**,/getAllTableData/**
+            - Path=/collect/**,/comment/**,/danmaku/**,/videoToEnsemble/**,/like/**,/createCenter/**,/play/**,/getAllTableData/**,/videoEncode/**
         - id: route4
           uri: http://localhost:8083
           predicates:

@@ -1,0 +1,954 @@
+2024-11-05 19:33:04 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:04 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:06 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-05 19:33:06 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:06 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:07 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:07 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 19:33:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:10 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:10 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:12 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-05 19:33:12 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:12 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:12 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:12 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:12 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:33:14 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-05 19:33:14 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:14 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:14 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:14 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:14 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:33:14 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 19:33:16 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-05 19:33:16 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:16 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:33:18 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:18 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:33:18 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 19:33:19 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 19:33:19 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 19:33:20 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:33:20 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 19:33:20 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:33:23 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:33:24 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:40:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:40:52 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:40:52 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:40:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-05 19:40:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:40:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:40:55 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:40:55 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:40:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 19:40:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:40:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:40:58 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:40:59 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:40:59 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:41:01 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-05 19:41:01 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:41:01 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:41:01 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:41:01 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:41:02 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:41:03 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 19:41:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-05 19:41:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:41:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:41:04 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:41:04 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:41:06 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-05 19:41:06 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:41:06 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:41:06 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:41:06 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:41:07 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 19:41:07 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 19:41:08 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 19:41:08 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 19:41:08 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:41:09 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:41:12 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:41:13 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:42:17 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:42:17 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:42:17 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:42:17 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:42:22 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:42:22 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:42:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 19:42:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:42:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:42:26 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:43:03 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:43:03 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:43:03 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:43:03 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:43:08 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:43:08 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:43:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 19:43:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:43:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:43:12 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 19:44:03 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 19:44:03 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 19:44:03 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 19:44:03 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 19:44:08 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:44:08 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 19:44:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 19:44:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:44:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 19:44:13 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 20:54:30 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 20:54:30 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 20:54:30 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 20:54:30 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 20:54:37 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 20:54:38 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 20:54:39 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 20:54:39 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 20:54:39 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 20:54:42 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 20:56:35 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 20:56:35 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 20:56:35 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 20:56:35 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 20:56:41 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 20:56:41 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 20:56:42 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 20:56:42 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 20:56:42 |WARN  |main |AbstractApplicationContext.java:591 |org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext |Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to process import candidates for configuration class [com.bilibili.gateway.GatewayApplication]; nested exception is java.lang.IllegalStateException: Failed to introspect annotated methods on class springfox.documentation.swagger2.configuration.Swagger2DocumentationWebMvcConfiguration
+2024-11-05 20:56:42 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 20:56:42 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 20:56:42 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 21:10:37 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 21:10:37 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 21:10:37 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 21:10:37 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 21:57:18 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 21:57:18 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:03:56 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:03:56 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:03:58 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-05 22:03:58 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:03:58 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:02 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:02 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:02 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:04:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 22:04:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:07 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:07 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:08 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:04:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-05 22:04:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:11 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 22:04:12 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:12 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:15 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-05 22:04:15 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:15 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:17 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:04:18 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:19 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:20 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-05 22:04:20 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:20 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:21 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:04:22 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:22 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:22 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 22:04:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:04:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:04:24 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:04:27 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:04:27 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:04:34 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:04:34 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:04:34 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:04:34 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:04:39 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:39 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:04:41 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-05 22:04:41 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:41 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:04:46 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:06:15 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:06:15 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:06:15 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:06:15 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:06:19 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:06:19 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:06:21 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 22:06:21 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:06:21 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:06:24 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:06:43 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:06:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:06:43 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:06:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:06:49 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:06:49 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:06:50 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:06:50 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:06:50 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:06:53 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:07:53 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:07:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:07:53 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:07:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:08:00 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:08:00 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:08:01 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:08:01 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:08:02 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:08:04 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:08:16 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:08:16 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:08:27 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:08:27 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:08:28 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:08:29 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:08:29 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:08:32 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:08:33 |WARN  |boundedElastic-13 |RoundRobinLoadBalancer.java:98 |org.springframework.cloud.loadbalancer.core.RoundRobinLoadBalancer |No servers available for service: video-service
+2024-11-05 22:08:56 |WARN  |boundedElastic-3 |RoundRobinLoadBalancer.java:98 |org.springframework.cloud.loadbalancer.core.RoundRobinLoadBalancer |No servers available for service: video-service
+2024-11-05 22:09:41 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:09:41 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:09:43 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 22:09:43 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:09:43 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:09:46 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:09:48 |WARN  |boundedElastic-5 |RoundRobinLoadBalancer.java:98 |org.springframework.cloud.loadbalancer.core.RoundRobinLoadBalancer |No servers available for service: video-service
+2024-11-05 22:26:50 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:26:50 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:26:50 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:26:50 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:26:50 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:26:50 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:26:50 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:26:50 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:26:53 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:26:53 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:26:56 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:26:56 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:01 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-05 22:27:01 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:02 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:02 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:02 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:04 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-05 22:27:04 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:04 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:04 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:04 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:06 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:06 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:07 |WARN  |pool-5-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 22:27:08 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:27:09 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:09 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:27:11 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 22:27:11 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:27:11 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:11 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:12 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-05 22:27:13 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:13 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:15 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-05 22:27:15 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:27:15 |WARN  |main |AbstractApplicationContext.java:591 |org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext |Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is java.lang.reflect.UndeclaredThrowableException
+2024-11-05 22:27:15 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:15 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:27:16 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:27:17 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:27:18 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:27:18 |WARN  |main |AbstractApplicationContext.java:591 |org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext |Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is java.lang.reflect.UndeclaredThrowableException
+2024-11-05 22:27:18 |WARN  |pool-5-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 22:27:20 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:27:22 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:27:22 |WARN  |main |AbstractApplicationContext.java:591 |org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext |Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is java.lang.reflect.UndeclaredThrowableException
+2024-11-05 22:27:24 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:27:27 |WARN  |main |AsyncReporter.java:342 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Timed out waiting for in-flight spans to send
+2024-11-05 22:27:28 |WARN  |main |AbstractApplicationContext.java:591 |org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext |Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is java.lang.reflect.UndeclaredThrowableException
+2024-11-05 22:27:29 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:27:30 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:27:30 |WARN  |main |AbstractApplicationContext.java:591 |org.springframework.boot.web.reactive.context.AnnotationConfigReactiveWebServerApplicationContext |Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is java.lang.reflect.UndeclaredThrowableException
+2024-11-05 22:27:35 |WARN  |main |AbstractApplicationContext.java:591 |org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext |Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is java.lang.reflect.UndeclaredThrowableException
+2024-11-05 22:27:36 |WARN  |main |AsyncReporter.java:342 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Timed out waiting for in-flight spans to send
+2024-11-05 22:27:36 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:27:36 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:27:40 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:27:40 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:27:40 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:27:43 |WARN  |main |AsyncReporter.java:342 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Timed out waiting for in-flight spans to send
+2024-11-05 22:28:46 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:28:49 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:49 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:50 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-05 22:28:50 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:50 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:51 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:51 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:52 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-05 22:28:52 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:52 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:53 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:53 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:55 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-05 22:28:55 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:55 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:55 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:55 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:55 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:28:57 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 22:28:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-05 22:28:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:28:57 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:28:58 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:28:58 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:29:00 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-05 22:29:00 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:29:00 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:29:01 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:29:01 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:29:02 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-05 22:29:02 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:29:02 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:29:02 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:29:03 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:29:03 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:29:06 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:29:07 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:30:21 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:30:21 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:30:21 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:30:21 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:30:25 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:30:25 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:30:26 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-05 22:30:26 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:30:26 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-05 22:30:30 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:32:00 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:32:00 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:32:00 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:32:00 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:32:07 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:32:07 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:32:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:32:09 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:32:09 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:32:12 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:32:33 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:32:33 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:32:33 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:32:33 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:32:40 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:32:40 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:32:41 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:32:41 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:32:42 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:32:45 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:33:21 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:33:21 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:33:21 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:33:21 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:33:25 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:33:25 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-05 22:33:26 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-05 22:33:26 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-05 22:33:27 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-05 22:33:30 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-05 22:33:47 |WARN  |AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}} |AsyncReporter.java:310 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.
+2024-11-05 22:33:47 |WARN  |AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}} |AsyncReporter.java:317 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Dropped 1 spans due to ResourceAccessException(I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect)
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:791)
+	at org.springframework.cloud.sleuth.zipkin2.ZipkinRestTemplateWrapper.doExecute(ZipkinRestTemplateWrapper.java:67)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:666)
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.post(RestTemplateSender.java:51)
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.lambda$new$0(RestTemplateSender.java:44)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender.post(HttpSender.java:137)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender$HttpPostCall.doExecute(HttpSender.java:150)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender$HttpPostCall.doExecute(HttpSender.java:140)
+	at zipkin2.Call$Base.execute(Call.java:391)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:299)
+	at zipkin2.reporter.AsyncReporter$Flusher.run(AsyncReporter.java:378)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.Socket.connect(Socket.java:608)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:510)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:605)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:377)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:398)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1252)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1186)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1080)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1014)
+	at org.springframework.http.client.SimpleBufferingClientHttpRequest.executeInternal(SimpleBufferingClientHttpRequest.java:76)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:782)
+	... 11 common frames omitted
+2024-11-05 22:33:50 |WARN  |AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}} |AsyncReporter.java:310 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.
+2024-11-05 22:33:50 |WARN  |AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}} |AsyncReporter.java:317 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Dropped 1 spans due to ResourceAccessException(I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect)
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:791)
+	at org.springframework.cloud.sleuth.zipkin2.ZipkinRestTemplateWrapper.doExecute(ZipkinRestTemplateWrapper.java:67)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:666)
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.post(RestTemplateSender.java:51)
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.lambda$new$0(RestTemplateSender.java:44)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender.post(HttpSender.java:137)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender$HttpPostCall.doExecute(HttpSender.java:150)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender$HttpPostCall.doExecute(HttpSender.java:140)
+	at zipkin2.Call$Base.execute(Call.java:391)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:299)
+	at zipkin2.reporter.AsyncReporter$Flusher.run(AsyncReporter.java:378)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.Socket.connect(Socket.java:608)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:510)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:605)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:377)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:398)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1252)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1186)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1080)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1014)
+	at org.springframework.http.client.SimpleBufferingClientHttpRequest.executeInternal(SimpleBufferingClientHttpRequest.java:76)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:782)
+	... 11 common frames omitted
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-05 22:51:23 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-05 22:51:23 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 13:36:29 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:36:29 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:36:30 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-07 13:36:30 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:36:30 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:36:33 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:36:35 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:36:35 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:36:35 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-07 13:36:35 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:36:35 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:36:37 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 13:36:39 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:37:55 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:37:55 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:37:56 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-07 13:37:56 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:37:56 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:37:57 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 13:38:00 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:38:03 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:38:04 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:38:04 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-07 13:38:04 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-07 13:38:05 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-07 13:38:07 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:38:11 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:38:11 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:38:11 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-07 13:38:11 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:38:11 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:38:15 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:49:02 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:49:02 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:49:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-07 13:49:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:49:03 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:49:06 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:50:04 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 13:50:04 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 13:50:04 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 13:50:04 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 13:50:06 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:50:06 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:50:07 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-07 13:50:07 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:50:07 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:50:10 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:50:13 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 13:50:13 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 13:50:13 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 13:50:13 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 13:50:28 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:50:28 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:50:29 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-07 13:50:29 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:50:29 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 13:50:31 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:50:37 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 13:50:37 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 13:50:37 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 13:50:37 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 13:50:42 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:50:42 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:50:43 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-07 13:50:43 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-07 13:50:43 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-07 13:50:45 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 13:53:31 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 13:53:31 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 13:53:31 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 13:53:31 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 13:53:36 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:53:36 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 13:53:37 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-07 13:53:37 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-07 13:53:37 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-07 13:53:39 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:11:33 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:11:33 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:11:33 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:11:33 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:11:38 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:11:38 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:11:38 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-07 14:11:38 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-07 14:11:39 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-07 14:11:41 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:34:43 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:34:43 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:39:34 |WARN  |http-nio-8080-exec-1 |ExceptionHandlerExceptionResolver.java:434 |org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver |Failure in @ExceptionHandler com.bilibili.common.advice.CommonExceptionAdvice#handleRuntimeException(Exception)
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:309)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:271)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
+	at java.base/java.io.FilterOutputStream.flush(FilterOutputStream.java:153)
+	at com.fasterxml.jackson.core.json.UTF8JsonGenerator.flush(UTF8JsonGenerator.java:1187)
+	at com.fasterxml.jackson.databind.ObjectWriter.writeValue(ObjectWriter.java:1009)
+	at org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter.writeInternal(AbstractJackson2HttpMessageConverter.java:456)
+	at org.springframework.http.converter.AbstractGenericHttpMessageConverter.write(AbstractGenericHttpMessageConverter.java:104)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:290)
+	at org.springframework.web.servlet.mvc.method.annotation.HttpEntityMethodProcessor.handleReturnValue(HttpEntityMethodProcessor.java:219)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:78)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:135)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.doResolveHandlerMethodException(ExceptionHandlerExceptionResolver.java:428)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodExceptionResolver.doResolveException(AbstractHandlerMethodExceptionResolver.java:75)
+	at org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver.resolveException(AbstractHandlerExceptionResolver.java:142)
+	at org.springframework.web.servlet.handler.HandlerExceptionResolverComposite.resolveException(HandlerExceptionResolverComposite.java:80)
+	at org.springframework.web.servlet.DispatcherServlet.processHandlerException(DispatcherServlet.java:1332)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1143)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:965)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:529)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:209)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:178)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:153)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:481)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:390)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:926)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.io.IOException: 你的主机中的软件中止了一个已建立的连接。
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:51)
+	at java.base/sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:113)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:79)
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:50)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:466)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:136)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1431)
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:775)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:739)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:723)
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:566)
+	at org.apache.coyote.http11.filters.ChunkedOutputFilter.flush(ChunkedOutputFilter.java:157)
+	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:220)
+	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1246)
+	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:398)
+	at org.apache.coyote.Response.action(Response.java:207)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:305)
+	... 57 common frames omitted
+2024-11-07 14:40:30 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:30 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:31 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-07 14:40:31 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:31 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:31 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:31 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:32 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-07 14:40:32 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:33 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:33 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:33 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:34 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-07 14:40:34 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:34 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:34 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:34 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:34 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:40:35 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 14:40:36 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-07 14:40:36 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:36 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:40:37 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:37 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:40:38 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 14:40:38 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-07 14:40:38 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-07 14:40:38 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-07 14:40:39 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:40:39 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:40:40 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:40:41 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:46:15 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:46:15 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:46:15 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:46:15 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:46:18 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:46:18 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 14:46:19 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-07 14:46:19 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:46:19 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 14:46:22 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 14:52:45 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 17:55:50 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:50 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:51 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:51 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:51 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-07 17:55:51 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:51 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:52 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-07 17:55:52 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:52 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:52 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:53 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-07 17:55:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:54 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:54 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:55 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-07 17:55:55 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:55 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:55 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 17:55:56 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 17:55:56 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:56 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:56 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 17:55:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-07 17:55:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:57 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 17:55:58 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:58 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 17:55:59 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 17:55:59 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-07 17:55:59 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-07 17:55:59 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-07 17:56:00 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 17:56:00 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 17:56:01 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 17:56:02 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 17:59:53 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 17:59:53 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 18:08:19 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:19 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:20 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service] & group[DEFAULT_GROUP]
+2024-11-07 18:08:20 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:20 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[video-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:20 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:20 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:21 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service] & group[DEFAULT_GROUP]
+2024-11-07 18:08:21 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:21 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[user-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:22 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:22 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-07 18:08:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:23 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:23 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:23 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:24 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 18:08:25 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service] & group[DEFAULT_GROUP]
+2024-11-07 18:08:25 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:25 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[chat-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:26 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:26 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:26 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 18:08:26 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 18:08:28 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service] & group[DEFAULT_GROUP]
+2024-11-07 18:08:28 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:28 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[notice-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 18:08:28 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:28 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 18:08:29 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service] & group[DEFAULT_GROUP]
+2024-11-07 18:08:29 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[gateway-service.properties] & group[DEFAULT_GROUP]
+2024-11-07 18:08:30 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 18:08:30 |WARN  |main |Logger.java:44 |org.mybatis.spring.mapper.ClassPathMapperScanner |No MyBatis mapper was found in '[com.bilibili.gateway]' package. Please check your configuration.
+2024-11-07 18:08:31 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 18:08:31 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 18:08:33 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 18:08:34 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 19:50:48 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 19:50:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 19:50:48 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 19:50:48 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 19:50:53 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 19:50:53 |WARN  |main |Reflections.java:179 |org.reflections.Reflections |given scan urls are empty. set urls in the configuration
+2024-11-07 19:50:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service] & group[DEFAULT_GROUP]
+2024-11-07 19:50:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service.yaml] & group[DEFAULT_GROUP]
+2024-11-07 19:50:54 |WARN  |main |NacosPropertySourceBuilder.java:87 |com.alibaba.cloud.nacos.client.NacosPropertySourceBuilder |Ignore the empty nacos configuration and get it based on dataId[search-service-dev.yaml] & group[DEFAULT_GROUP]
+2024-11-07 19:50:56 |WARN  |pool-4-thread-1 |ZipkinAutoConfiguration.java:164 |org.springframework.cloud.sleuth.autoconfig.zipkin2.ZipkinAutoConfiguration |Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-11-07 19:50:58 |WARN  |main |LoadBalancerCacheAutoConfiguration.java:82 |org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger |Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2024-11-07 19:51:22 |WARN  |AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}} |AsyncReporter.java:310 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.
+2024-11-07 19:51:22 |WARN  |AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}} |AsyncReporter.java:317 |zipkin2.reporter.AsyncReporter$BoundedAsyncReporter |Dropped 1 spans due to ResourceAccessException(I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect)
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:791)
+	at org.springframework.cloud.sleuth.zipkin2.ZipkinRestTemplateWrapper.doExecute(ZipkinRestTemplateWrapper.java:67)
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:666)
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.post(RestTemplateSender.java:51)
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.lambda$new$0(RestTemplateSender.java:44)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender.post(HttpSender.java:137)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender$HttpPostCall.doExecute(HttpSender.java:150)
+	at org.springframework.cloud.sleuth.zipkin2.HttpSender$HttpPostCall.doExecute(HttpSender.java:140)
+	at zipkin2.Call$Base.execute(Call.java:391)
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:299)
+	at zipkin2.reporter.AsyncReporter$Flusher.run(AsyncReporter.java:378)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+	at java.base/java.net.Socket.connect(Socket.java:608)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:510)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:605)
+	at java.base/sun.net.www.http.HttpClient.<init>(HttpClient.java:278)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:377)
+	at java.base/sun.net.www.http.HttpClient.New(HttpClient.java:398)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1252)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1186)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1080)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:1014)
+	at org.springframework.http.client.SimpleBufferingClientHttpRequest.executeInternal(SimpleBufferingClientHttpRequest.java:76)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:66)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:782)
+	... 11 common frames omitted
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:108 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Start destroying common HttpClient
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:136 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Start destroying Publisher
+2024-11-07 20:10:54 |WARN  |Thread-5 |NotifyCenter.java:153 |com.alibaba.nacos.common.notify.NotifyCenter |[NotifyCenter] Destruction of the end
+2024-11-07 20:10:54 |WARN  |Thread-1 |HttpClientBeanHolder.java:114 |com.alibaba.nacos.common.http.HttpClientBeanHolder |[HttpClientBeanHolder] Destruction of the end

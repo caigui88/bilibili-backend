@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 /**
- *自定义时间格式序列化器，去除localdatetime中T字符
+ *  自定义时间格式序列化器，去除localdatetime中T字符
  */
 public class RemoveTSerializer extends JsonSerializer<LocalDateTime> {
     @Override

@@ -22,8 +22,9 @@ public interface ChatService {
 
     Result<List<HistoryChatVO>> getHistoryChat(Integer userId, Integer receiverId);
 
-
     Result<TempSessionVO> createTempSession(Integer receiverId);
+
     PPTVO getPPT(String describe) throws IOException;
-     String getImage( String text) throws Exception;
+
+    String getImage(String text) throws Exception;
 }

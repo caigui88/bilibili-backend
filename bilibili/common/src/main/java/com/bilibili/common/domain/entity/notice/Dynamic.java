@@ -6,6 +6,10 @@ import lombok.experimental.Accessors;
 
 import java.time.LocalDateTime;
 
+/**
+ * 动态表
+ * 用于存储用户发布的动态
+ */
 @TableName("dynamic")
 @Data
 @Accessors(chain = true)

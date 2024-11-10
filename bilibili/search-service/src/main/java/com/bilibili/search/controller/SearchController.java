@@ -20,7 +20,7 @@ import javax.annotation.Resource;
 import java.io.IOException;
 import java.util.List;
 @RestController
-@RequestMapping("")
+@RequestMapping("/search")
 @Api(tags = "搜索")
 @Slf4j
 @CrossOrigin(value = "*")

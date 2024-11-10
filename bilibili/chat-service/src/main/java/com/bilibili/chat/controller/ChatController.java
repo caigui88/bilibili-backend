@@ -29,45 +29,51 @@ public class ChatController {
     @GetMapping("/getPPT/{describe}")
     public PPTVO getPPT(@PathVariable String describe) throws IOException, InterruptedException {
         return chatService.getPPT(describe);
-        }
+    }
 
     @GetMapping("/getImage/{text}")
     public String getImage(@PathVariable String text) throws Exception {
         return chatService.getImage(text);
     }
+
     @GetMapping("/createTempSession/{receiverId}")
     @ApiOperation("创建临时会话")
-    public Result<TempSessionVO> createTempSession(@PathVariable Integer receiverId){
+    public Result<TempSessionVO> createTempSession(@PathVariable Integer receiverId) {
         return chatService.createTempSession(receiverId);
     }
+
     @GetMapping("/getHistoryChat/{userId}/{receiverId}")
     @ApiOperation("获取历史聊天记录")
-    public Result<List<HistoryChatVO>> getHistoryChat(@PathVariable Integer userId, @PathVariable Integer receiverId){
-        
-     return chatService.getHistoryChat(userId,receiverId);
+    public Result<List<HistoryChatVO>> getHistoryChat(@PathVariable Integer userId, @PathVariable Integer receiverId) {
+
+        return chatService.getHistoryChat(userId, receiverId);
     }
+
     @ApiOperation("获取历史聊天会话列表")
     @GetMapping("/getHistoryChatSession/{userId}")
-    public Result<List<ChatSessionVO>> getHistoryChatSession(@PathVariable Integer userId){
-        
+    public Result<List<ChatSessionVO>> getHistoryChatSession(@PathVariable Integer userId) {
+
         return chatService.getHistoryChatSession(userId);
     }
+
     @ApiOperation("修改聊天记录的状态从未读到已读")
     @PostMapping("/changeChatStatus")
-    public Result<Boolean> changeChatStatus(@RequestBody ChangeChatStatusDTO changeChatStatusDTO){
-        
+    public Result<Boolean> changeChatStatus(@RequestBody ChangeChatStatusDTO changeChatStatusDTO) {
+
         return chatService.changeChatStatus(changeChatStatusDTO);
     }
+
     @ApiOperation("修改聊天会话的最后聊天时间和最后聊天内容")
     @PostMapping("/changeChatSessionTime")
-    public Result<Boolean> changeChatSessionTime(@RequestBody ChatSessionDTO chatSessionDTO){
-        
+    public Result<Boolean> changeChatSessionTime(@RequestBody ChatSessionDTO chatSessionDTO) {
+
         return chatService.changeChatSessionTime(chatSessionDTO);
     }
+
     @ApiOperation("/新增聊天会话和聊天内容")
     @PostMapping("/addChatSessionAndContent")
-    public Result<Boolean> addChatSessionAndContent(@RequestBody ChatSessionDTO chatSessionDTO){
-        
+    public Result<Boolean> addChatSessionAndContent(@RequestBody ChatSessionDTO chatSessionDTO) {
+
         return chatService.addChatSessionAndContent(chatSessionDTO);
     }
 }

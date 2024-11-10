@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 /**
- *自定义时间格式序列化器，将localdatetime格式转成几小时前、几天前
+ *  自定义时间格式序列化器，将localdatetime格式转成几小时前、几天前
  */
 public class RelativeTimeSerializer extends JsonSerializer<LocalDateTime> {
 
